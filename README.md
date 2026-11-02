@@ -104,7 +104,7 @@ Move the unzipped contents into DBSgram_Toolbox/external/DBScope (ensure the fol
 ### + Option B: Command Line Clone (Recommended for Developers)
 To clone the repository and automatically fetch the DBScope submodule in a single step, run:
 
-> git clone --recurse-submodules [https://github.com/pmtmelo/DBSgram_Toolbox.git](https://github.com/pmtmelo/DBSgram_Toolbox.git)
+> git clone --recurse-submodules [(https://github.com/NCN-Lab/DBSgram](https://github.com/NCN-Lab/DBSgram)
 
 
 
