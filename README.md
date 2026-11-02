@@ -92,13 +92,13 @@ For users running the MATLAB source code, please ensure the following are instal
 This toolbox relies on the DBScope core library (external/DBScope) as an external dependency. You can download and configure the toolbox using either of the two methods below:
 
 ### + Option A: Direct ZIP Download (Recommended for Non-Git Users)
-Download the DBSgram_Toolbox repository by clicking the green <> Code button on GitHub and selecting Download ZIP, then unzip it on your computer.
+Download the DBSgram_Main repository by clicking the green <> Code button on GitHub and selecting Download ZIP, then unzip it on your computer.
 
 Because GitHub ZIP downloads do not automatically bundle external submodules, the external/DBScope folder will initially be empty.
 
 Go to https://github.com/NCN-Lab/DBScope, click <> Code -> Download ZIP, and unzip the downloaded file.
 
-Move the unzipped contents into DBSgram_Toolbox/external/DBScope (ensure the folder is named DBScope and not DBScope-main).
+Move the unzipped contents into DBSgram_Main/external/DBScope (ensure the folder is named DBScope and not DBScope-main).
 
 
 ### + Option B: Command Line Clone (Recommended for Developers)
@@ -109,14 +109,14 @@ To clone the repository and automatically fetch the DBScope submodule in a singl
 
 
 ## Troubleshooting Empty Submodules
-If you already cloned the repository without the recursive flag and your external/DBScope folder is empty, run the following command inside the DBSgram_Toolbox root directory:
+If you already cloned the repository without the recursive flag and your external/DBScope folder is empty, run the following command inside the DBSgram_Main root directory:
 
 > git submodule update --init --recursive
 
 Alternatively, download the DBScope .zip archive directly from https://github.com/NCN-Lab/DBScope and extract its contents into the external/DBScope/ directory.
 
 ## Launching the Toolbox (MATLAB Users)
-Open MATLAB and add the DBSgram_Toolbox folder (with subfolders) to your search path (Home Tab >> Set Path >> Add Folder with Subfolders), or navigate directly to the DBSgram_Toolbox root directory.
+Open MATLAB and add the DBSgram_Main folder (with subfolders) to your search path (Home Tab >> Set Path >> Add Folder with Subfolders), or navigate directly to the DBSgram_Main root directory.
 
 In the MATLAB Command Window, launch the main framework suite by running:
 
