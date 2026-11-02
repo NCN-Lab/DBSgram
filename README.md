@@ -106,6 +106,9 @@ To clone the repository and automatically fetch the DBScope submodule in a singl
 
 > git clone --recurse-submodules [(https://github.com/NCN-Lab/DBSgram](https://github.com/NCN-Lab/DBSgram)
 
+### + Alternative Option: MS Windows Installer
+If you have MS Windows, you can also run the DBSgram toolbox without having to install MATLAB. For this, install the binary (.exe):
+[https://github.com/NCN-Lab/DBSgram/releases/tag/MSWin_Installer](https://github.com/NCN-Lab/DBSgram/releases/tag/MSWin_Installer)
 
 
 ## Troubleshooting Empty Submodules
