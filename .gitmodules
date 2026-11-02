@@ -1,0 +1,3 @@
+[submodule "external/DBScope"]
+	path = external/DBScope
+	url = https://github.com/NCN-Lab/DBScope
