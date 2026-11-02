@@ -137,7 +137,7 @@ Initial release of the DBSgram Titration Preprocessing & Reporting Framework Sui
 ## 📊 Data Availability & Open Science
 Preprint & Theoretical Validation: Full methodological descriptions, synchronization validation, and clinical case studies are detailed in our medRxiv preprint: https://doi.org/10.64898/2026.03.29.26349663.
 
-Source Code: All software tools and future updates are publicly maintained on GitHub (https://github.com/pmtmelo/DBSgram_Toolbox) and the NCN-Lab organization (https://github.com/NCN-Lab).
+Source Code: All software tools and future updates are publicly maintained on GitHub (https://github.com/NCN-Lab/DBSgram) and the NCN-Lab organization (https://github.com/NCN-Lab).
 
 In accordance with NCN-Lab practice, the computational pipelines, and source code are open and adhere to FAIR data principles.
 
