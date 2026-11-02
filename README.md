@@ -90,7 +90,7 @@ For users running the MATLAB source code, please ensure the following are instal
 ## 🚀 Installation, Setup & Launching
 This toolbox relies on the DBScope core library (external/DBScope) as an external dependency. You can download and configure the toolbox using either of the two methods below:
 
-### + Option A: Direct ZIP Download (Recommended for Clinicians / Non-Git Users)
+### + Option A: Direct ZIP Download (Recommended for Non-Git Users)
 Download the DBSgram_Toolbox repository by clicking the green <> Code button on GitHub and selecting Download ZIP, then unzip it on your computer.
 
 Because GitHub ZIP downloads do not automatically bundle external submodules, the external/DBScope folder will initially be empty.
