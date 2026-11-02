@@ -1,5 +1,6 @@
 # Multimodal Biomarker-Guided Deep Brain Stimulation Programming in Parkinson’s Disease: The DBSgram Framework
 
+
 ## General Information
 
 This repository contains the code and interactive software suite supporting the manuscript:
@@ -142,4 +143,14 @@ In accordance with NCN-Lab practice, the computational pipelines, and source cod
 ## 📧 Support & Contact
 For questions or assistance regarding software installation, data formatting, or running the example datasets:
 
-+ Neuroengineering and Computational Neuroscience (NCN) Lab: pauloaguiar@i3s.up.pt 
++ Neuroengineering and Computational Neuroscience (NCN) Lab: pauloaguiar@i3s.up.pt
+
+THIS SOFTWARE IS TO BE USED IN RESEARCH CONTEXT. IT IS NOT YET READY/VALIDATED FOR CLINICAL PRACTICE
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
