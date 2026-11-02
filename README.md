@@ -31,6 +31,7 @@ The repository is organized into modular preprocessing, auditing, and reporting 
 ```text
 DBSgram_Toolbox/
 ├── DBSgram_MainUI.m                     # Master entry-point GUI orchestrating the DBSgram workflow
+├── DBSgram_setup.m                      # File to double-check the correct linkage to DBScope
 ├── apps/                                # Modular graphical user interfaces for each pipeline stage
 │   ├── DBSgram_DataQualityUI.m          # Stage 1: Raw telemetry ingestion, dropout repair & task mapping
 │   ├── DBSgram_DataQualityPart2UI.m     # Stage 2: Stimulation plateau & protocol completeness auditor
