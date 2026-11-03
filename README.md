@@ -145,7 +145,7 @@ Source Code: All software tools and future updates are publicly maintained on Gi
 In accordance with NCN-Lab practice, the computational pipelines, and source code are open and adhere to FAIR data principles.
 
 ## 📧 Support & Contact
-For questions or assistance regarding software installation, data formatting, or running the example datasets:
+For questions, bug reports, or assistance regarding software installation, data formatting, or running the example datasets:
 
 + Neuroengineering and Computational Neuroscience (NCN) Lab: pauloaguiar@i3s.up.pt
 
